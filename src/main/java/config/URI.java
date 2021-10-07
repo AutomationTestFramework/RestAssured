@@ -1,9 +1,11 @@
+package config;
+
 /**
  *
  * Swagger URI --> https://petstore.swagger.io
- * Routes class allow the testers to design the end-points for all services that are  available
+ * config.Routes class allow the testers to design the end-points for all services that are  available
  */
-public class Routes {
+public class URI {
         /**
          * The base uri is the resource where all the <b>services</b> are running.
          */
